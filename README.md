@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://ctftime.org/team/169835
+https://app.hackthebox.com/profile/zzidzz
 <p align="left">
 <a href="https://github.com/ZZIDZZ">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZZIDZZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
