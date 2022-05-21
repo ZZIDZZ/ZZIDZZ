@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+http://ctf.zzidzz.xyz <br />
 https://ctftime.org/team/169835 <br />
 https://app.hackthebox.com/profile/780810 <br />
