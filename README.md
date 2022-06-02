@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-http://ctf.zzidzz.xyz <br />
-https://ctftime.org/team/169835 <br />
-https://app.hackthebox.com/profile/780810 <br />
+[https://zzidzz.github.io/pwnpeko/](ctf writeups) <br />
+[ctf.zzidzz.xyz](much cooler ctf writeups) <br />
+[https://ctftime.org/team/169835](pwnpeko profile) <br />
+[https://app.hackthebox.com/profile/780810](Hack The Box Profile) <br />
