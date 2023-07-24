@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Linkedin Profile](https://www.linkedin.com/in/zidanutomo/ "https://www.linkedin.com/in/zidanutomo/") <br />
-[CTF Writeups](https://zzidzz.github.io/pwnpeko "https://zzidzz.github.io/pwnpeko") <br />
-[Much Cooler CTF Writeups](http://ctf.zzidzz.xyz "http://ctf.zzidzz.xyz") <br />
+[CTF Writeups](https://zzidzz.github.io/pwnpeko "https://ctf.zzidzz.tech/") <br />
 [pwnpeko Profile](https://ctftime.org/team/169835 "peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆") <br />
 [Hack The Box Profile](https://app.hackthebox.com/profile/780810 "https://app.hackthebox.com/profile/780810") <br />
