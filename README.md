@@ -1,5 +1,6 @@
 ### Hi there 👋
 DevOps, SysAdmin, Cyber Security, Backend, and sometimes new things
+![](https://komarev.com/ghpvc/?username=ZZIDZZ)
 <!--
 **ZZIDZZ/ZZIDZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
