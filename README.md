@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[ZZIDZZ]("https://www.zzidzz.xyz/") <br />
+[ZZIDZZ](https://www.zzidzz.xyz/) <br />
 [Linkedin Profile](https://www.linkedin.com/in/zidanutomo/ "https://www.linkedin.com/in/zidanutomo/") <br />
 [CTF Writeups](https://ctf.zzidzz.tech/) <br />
 [pwnpeko Profile](https://ctftime.org/team/169835 "peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆peko☆") <br />
